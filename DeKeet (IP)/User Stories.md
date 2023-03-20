@@ -1,7 +1,6 @@
 # User Stories
 
 As a guest I can see all upcoming events.
-
 As a guest I can see who joined the event
 
 
