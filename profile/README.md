@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hello my name is Jovi Simons Student at Fontys Hoge School. Currently I am in my 6th semester. I want to learn how to build an scalable enterprise software that can handle a lot users/requests. 
+Hello my name is Jovi Simons, Student at Fontys Hoge School. Currently I am in my 6th semester. I want to learn how to build scalable enterprise software that can handle enourmus amount of users/requests.
 
 This document is created to help the reader easily find the products i made for this semester. The reading guide is written for my personal portfolio and to show all the proof for my learning outcomes. There are 9 outcomes in total and during this semester i will get proof to get at least a proficient for every learning outcome. I will collect this evidence in a group and personal project.
 
@@ -12,7 +12,7 @@ The group project will be made in a group of 5 students. The product owner is a 
 
 ### Individual project: De Keet
 
-
+De Keet is a new upcoming platform where you can attend parties/events from friends or even from people you don't know. The users of this platform experience the finest party/event planning available in the web. You can even track your drinks and compete with other drinkers! If you love going out, enjoy music or you just want a drink this the platform made for you.
 
 ## Learning outcomes
 Scale for every learning outcomes: undefined, orienting, beginning, proficient, advanced.
