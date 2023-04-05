@@ -40,6 +40,8 @@ You deliver professional products according to planning, which is the result of 
 
 #### Individual
 
+For my individual research I researched a topic that is being used in our group project. Which platform is best for testing forex strategies? : [Research](https://github.com/Adv-Software-DeKeet/.github/blob/main/Research/Platform%20Research.pdf)
+
 #### Group
 
 #### Score
@@ -108,7 +110,7 @@ You set up environments and tools which support your chosen software development
 
 #### Individual
 
-To automate the process on each push to master docker container is created and pushed to dockerhub for production. More info see: [Docker](https://github.com/Adv-Software-DeKeet/.github/blob/main/DeKeet%20(IP)/Docker.md)
+To automate the process on all my repositories, when pushed to master a docker container is created and pushed to dockerhub for production. More info see: [Docker](https://github.com/Adv-Software-DeKeet/.github/blob/main/DeKeet%20(IP)/Docker.md)
 
 #### Group
 
