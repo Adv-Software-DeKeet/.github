@@ -22,6 +22,11 @@ You develop and deploy enterprise software, both individually and as a team, tha
 
 #### Evidence:
 
+#### Individual
+
+#### Group
+
+
 #### Score
 | Level |
 |---|
@@ -33,6 +38,10 @@ You deliver professional products according to planning, which is the result of 
 
 #### Evidence:
 
+#### Individual
+
+#### Group
+
 #### Score
 | Level |
 |---|
@@ -43,8 +52,10 @@ You acquire skills required for your future career. You are aware of multiple ca
 
 #### Evidence:
 
+#### Individual
+
 ##### Graduation Preparation 
-I have made a Graduation Preparation file where I explain what my previous internship was about and what I was looking for in the next one:
+I have made a Graduation Preparation document where I explain what my previous internship was about and what I am looking for in the next one:
 
 [Graduation Preparation](https://github.com/Adv-Software-DeKeet/.github/blob/main/Research/annotated-Graduation%2520Preparation.pdf)
 
@@ -52,6 +63,8 @@ I have made a Graduation Preparation file where I explain what my previous inter
 In Future Career I orient and explain about the possibilites I have in the ICT world:
 
 [Future Career](https://github.com/Adv-Software-DeKeet/.github/blob/main/Research/Future%20career.md)
+
+#### Group
 
 #### Score
 | Level |
@@ -62,6 +75,10 @@ In Future Career I orient and explain about the possibilites I have in the ICT w
 You use appropriate communication considering your role in a team, your audience and the medium to convey your message and results of your software development process.
 
 #### Evidence:
+
+#### Individual
+
+#### Group
 
 #### Score
 | Level |
@@ -74,6 +91,10 @@ Besides functionality, you develop the architecture of enterprise software based
 
 #### Evidence:
 
+#### Individual
+
+#### Group
+
 #### Score
 | Level |
 |---|
@@ -85,6 +106,10 @@ You set up environments and tools which support your chosen software development
 
 #### Evidence:
 
+#### Individual
+
+#### Group
+
 #### Score
 | Level |
 |---|
@@ -92,6 +117,12 @@ You set up environments and tools which support your chosen software development
 
 ### Learning Outcome 7 - Cloud Services
 You can explain what a cloud platform provider is and can deploy (parts of) your application to a cloud platform. You integrate cloud services (for example: Serverless computing, cloud storage, container management) into your enterprise application, and can explain the added value of these cloud services for your application.
+
+#### Evidence:
+
+#### Individual
+
+#### Group
 
 #### Score
 | Level |
@@ -104,7 +135,11 @@ You investigate how to minimize security risks for your application, and you inc
 
 #### Evidence:
 
+#### Individual
+
 I use Firebase for authentication. Firebase Auth is a popular authentication service provided by Google's Firebase platform. Firebase is reliable and easy to integrate. for more information and implementation:  [Firebase](https://github.com/Adv-Software-DeKeet/.github/blob/main/DeKeet%20(IP)/Firebase.md).
+
+#### Group
 
 #### Score
 | Level |
