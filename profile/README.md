@@ -37,12 +37,14 @@ You deliver professional products according to planning, which is the result of 
 ### Learning Outcome 3 - Personal Leadership
 You acquire skills required for your future career. You are aware of multiple career paths and can reflect which ones fit best, considering your (potential) skills and ambitions. You are aware of developments in software engineering and can signal trends. 
 
-#### Graduation Preparation 
+#### Evidence
+
+##### Graduation Preparation 
 I have made a Graduation Preparation file where I explain what my previous internship was about and what I was looking for in the next one:
 
 [Graduation Preparation](https://github.com/Adv-Software-DeKeet/.github/blob/main/Research/annotated-Graduation%2520Preparation.pdf)
 
-#### Future Career
+##### Future Career
 In Future Career I orient and explain about the possibilites I have in the ICT world:
 
 [Future Career](https://github.com/Adv-Software-DeKeet/.github/blob/main/Research/Future%20career.md)
