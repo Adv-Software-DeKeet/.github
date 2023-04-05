@@ -20,6 +20,8 @@ Scale for every learning outcomes: undefined, orienting, beginning, proficient, 
 ### Learning outcome 1 - Future-oriented Organization
 You develop and deploy enterprise software, both individually and as a team, that fits the current question and needs of your stakeholders. Your final solution is designed with the possibility for future further development. 
 
+#### Evidence:
+
 #### Score
 | Level |
 |---|
@@ -29,6 +31,8 @@ You develop and deploy enterprise software, both individually and as a team, tha
 ### Learning Outcome 2 - Investigative Problem-Solving
 You deliver professional products according to planning, which is the result of solving problems in a structured and methodical approach. You demonstrate a critical view towards your own and other people’s work.
 
+#### Evidence:
+
 #### Score
 | Level |
 |---|
@@ -37,12 +41,14 @@ You deliver professional products according to planning, which is the result of 
 ### Learning Outcome 3 - Personal Leadership
 You acquire skills required for your future career. You are aware of multiple career paths and can reflect which ones fit best, considering your (potential) skills and ambitions. You are aware of developments in software engineering and can signal trends. 
 
-#### Graduation Preparation 
+#### Evidence:
+
+##### Graduation Preparation 
 I have made a Graduation Preparation file where I explain what my previous internship was about and what I was looking for in the next one:
 
 [Graduation Preparation](https://github.com/Adv-Software-DeKeet/.github/blob/main/Research/annotated-Graduation%2520Preparation.pdf)
 
-#### Future Career
+##### Future Career
 In Future Career I orient and explain about the possibilites I have in the ICT world:
 
 [Future Career](https://github.com/Adv-Software-DeKeet/.github/blob/main/Research/Future%20career.md)
@@ -55,6 +61,8 @@ In Future Career I orient and explain about the possibilites I have in the ICT w
 ### Learning Outcome 4 - Targeted Interaction
 You use appropriate communication considering your role in a team, your audience and the medium to convey your message and results of your software development process.
 
+#### Evidence:
+
 #### Score
 | Level |
 |---|
@@ -64,6 +72,8 @@ You use appropriate communication considering your role in a team, your audience
 ### Learning Outcome 5 - Scalable Architectures
 Besides functionality, you develop the architecture of enterprise software based on quality attributes. You especially consider attributes most relevant to enterprise contexts with high volume data and events. You design your architecture with future adaptation in mind. Your development environment supports this by being able to independently deploy and monitor the running parts of your application. 
 
+#### Evidence:
+
 #### Score
 | Level |
 |---|
@@ -72,6 +82,8 @@ Besides functionality, you develop the architecture of enterprise software based
 
 ### Learning Outcome 6 - Development and Operations (DevOps)
 You set up environments and tools which support your chosen software development process. You provide governance for all stakeholders’ goals. You aim for as much automation as possible, to enable short release times and high software quality.
+
+#### Evidence:
 
 #### Score
 | Level |
@@ -90,6 +102,8 @@ You can explain what a cloud platform provider is and can deploy (parts of) your
 ### Learning Outcome 8 - Security by Design
 You investigate how to minimize security risks for your application, and you incorporate best practices in your whole software development process. 
 
+#### Evidence:
+
 I use Firebase for authentication. Firebase Auth is a popular authentication service provided by Google's Firebase platform. Firebase is reliable and easy to integrate. for more information and implementation:  [Firebase](https://github.com/Adv-Software-DeKeet/.github/blob/main/DeKeet%20(IP)/Firebase.md).
 
 #### Score
@@ -100,6 +114,8 @@ I use Firebase for authentication. Firebase Auth is a popular authentication ser
 
 ### Learning Outcome 9 – Distributed Data
 You are aware of specific data requirements for enterprise systems. You apply best practices for distributed data during your whole development process, both for non-functional and functional requirements. You especially take legal and ethical issues into consideration.
+
+#### Evidence:
 
 #### Score
 | Level |
