@@ -4,7 +4,7 @@ Firebase Auth is a popular authentication service provided by Google's Firebase 
 
 Firebase Auth provides a secure and reliable way to authenticate users using email/password, Google and other third-party authentication providers. Firebase Auth supports industry-standard security protocols like OAuth2, OpenID Connect, and SSL/TLS encryption to protect user data.
 
-Firebase Auth is easy to integrate and for small applications it is free, which is perfect for me as a student. Firebase provides SDK's and API's to get full control over the service. 
+Firebase Auth is easy to integrate and for small applications it is free, which is perfect for me as a student. Firebase provides SDK's and API's to get full control over the service. Such as managing users, their roles, authentication and authorization etc.
 
 ## Authentication and Authorization 
 
