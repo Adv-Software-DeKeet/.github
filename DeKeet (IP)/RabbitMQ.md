@@ -8,7 +8,7 @@ On user registration a POST request is send with user data to the UserService, w
 I use RabbitMQ messaging to communicate between my UserService and AuthService. UserService manages user data in MongoDB and AuthService controls Firebase. 
 Basic flow:
 
-
+![basic flow](https://github.com/Adv-Software-DeKeet/.github/blob/main/DeKeet%20(IP)/images/UserRegistration.png)
 
 On user registration UserServices registers in my DB then Rabb from UserService to AuthSer
 
