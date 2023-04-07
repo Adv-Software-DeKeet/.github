@@ -10,10 +10,48 @@ Basic flow:
 
 ![basic flow](https://github.com/Adv-Software-DeKeet/.github/blob/6a3d50780bbc100d506c589f7748e12f3239152a/DeKeet%20(IP)/images/UserRegistration.png)
 
+```
+    public Declarables createKeetSchema(){
+        return new Declarables(
+                new DirectExchange("x.de-keet"),
+                new Queue("q.auth" ),
+                new Queue("q.userUpdate" ),
+                new Queue("q.userDelete" ),
+                new Binding("q.auth", Binding.DestinationType.QUEUE, "x.de-keet", "auth", null),
+                new Binding("q.userUpdate", Binding.DestinationType.QUEUE, "x.de-keet", "userUpdate", null),
+                new Binding("q.userDelete", Binding.DestinationType.QUEUE, "x.de-keet", "userDelete", null));
+    }
+```
+We use a ```direct``` exchange so message goes to the ```queues``` whose binding key exactly matches the ```routing key``` of the message.
+
 On user registration:
 
 Request goes to UserService via HTTP, UserService registers user, UserService sends Rabbit message to AuthService, AuthService saves new user to Firebase.
 
+publisher:
+
+```
+    public void sendMessage(User user) {
+        rabbitTemplate.convertAndSend("x.de-keet", "auth", user);
+    }
+```
+
+Listener:
+
+```
+    @RabbitListener(queues = {"q.auth"})
+    public void onUserRegistration(User user) {
+        log.info("User Registration Event Received: {}", user);
+        try {
+            svc.SetRole(user);
+        } catch (FirebaseAuthException e) {
+            log.info(e.getMessage());
+        }
+    }
+```
+
+Result / logs:
+![logsrabbit]()
 On user update:
 
 Request goes to UserService via HTTP, UserService updates user, UserService sends Rabbit message to AuthService, AuthService saves new changes to Firebase.
