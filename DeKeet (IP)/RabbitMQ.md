@@ -24,7 +24,7 @@ Basic flow:
 ```
 We use a ```direct``` exchange so message goes to the ```queues``` whose binding key exactly matches the ```routing key``` of the message.
 
-On user registration:
+### On user registration:
 
 Request goes to UserService via HTTP, UserService registers user, UserService sends Rabbit message to AuthService, AuthService saves new user to Firebase.
 
@@ -54,11 +54,11 @@ Result / logs:
 
 ![logsrabbit](https://github.com/Adv-Software-DeKeet/.github/blob/main/DeKeet%20(IP)/images/ListenerResult.png)
 
-On user update:
+### On user update:
 
 Request goes to UserService via HTTP, UserService updates user, UserService sends Rabbit message to AuthService, AuthService saves new changes to Firebase.
 
-On user delete:
+### On user delete:
 
 Request goes to UserService via HTTP, UserService deletes user, UserService sends Rabbit message to AuthService, AuthService deletes from Firebase.
 
