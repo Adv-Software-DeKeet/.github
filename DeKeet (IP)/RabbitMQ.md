@@ -6,9 +6,10 @@ RabbitMQ is a powerful and flexible messaging system that allows applications to
 On user registration a POST request is send with user data to the UserService, which stores user data in my MongoDB. As mentioned in portfolio I use Firebase for auth ([Firebase](https://github.com/Adv-Software-DeKeet/.github/blob/main/DeKeet%20(IP)/Firebase.md)). The AuthService communicates with Firebase. To store user data both in my DB and in Firebase, I use RabbitMQ messaging. After registration in my DB a message from UserServive to AuthService  via rabbit
 
 I use RabbitMQ messaging to communicate between my UserService and AuthService. UserService manages user data in MongoDB and AuthService controls Firebase. 
+
 Basic flow:
 
-![basic flow](https://github.com/Adv-Software-DeKeet/.github/blob/6a3d50780bbc100d506c589f7748e12f3239152a/DeKeet%20(IP)/images/UserRegistration.png)
+![basic flow](https://github.com/Adv-Software-DeKeet/.github/blob/main/DeKeet%20(IP)/images/UserRegistration.png)
 
 ```
     public Declarables createKeetSchema(){
