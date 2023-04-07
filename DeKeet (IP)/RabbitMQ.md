@@ -10,8 +10,17 @@ Basic flow:
 
 ![basic flow](https://github.com/Adv-Software-DeKeet/.github/blob/6a3d50780bbc100d506c589f7748e12f3239152a/DeKeet%20(IP)/images/UserRegistration.png)
 
-On user registration UserServices registers in my DB then Rabb from UserService to AuthSer
+On user registration:
 
+Request goes to UserService via HTTP, UserService registers user, UserService sends Rabbit message to AuthService, AuthService saves new user to Firebase.
+
+On user update:
+
+Request goes to UserService via HTTP, UserService updates user, UserService sends Rabbit message to AuthService, AuthService saves new changes to Firebase.
+
+On user delete:
+
+Request goes to UserService via HTTP, UserService deletes user, UserService sends Rabbit message to AuthService, AuthService deletes from Firebase.
 
 
 ## Cluster
