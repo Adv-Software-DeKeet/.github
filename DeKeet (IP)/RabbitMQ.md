@@ -33,7 +33,7 @@ publisher:
 
 ```
     public void sendMessage(User user) {
-        rabbitTemplate.convertAndSend("x.de-keet", "auth", user);
+        rabbitTemplate.convertAndSend("x.de-keet", "userRegister", user);
     }
 ```
 
