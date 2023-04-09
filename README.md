@@ -96,6 +96,8 @@ Besides functionality, you develop the architecture of enterprise software based
 #### Individual
 I created C2 Model see here: [Technical design](https://github.com/Adv-Software-DeKeet/.github/blob/main/DeKeet%20(IP)/Technical%20Design.md#c2-model)
 
+Kubernetes: [Kubernetes](https://github.com/Adv-Software-DeKeet/.github/blob/main/DeKeet%20(IP)/Kubernetes.md)
+
 #### Group
 
 #### Score
