@@ -6,3 +6,5 @@
 
 ## RabbitMQ
 
+## Autoscaling
+
