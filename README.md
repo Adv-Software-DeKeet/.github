@@ -82,6 +82,8 @@ You use appropriate communication considering your role in a team, your audience
 
 #### Group
 
+Standups: (Standups)[https://github.com/Adv-Software-DeKeet/.github/blob/main/ATM%20(Group%20project)/Standups.md]
+
 #### Score
 | Level |
 |---|
