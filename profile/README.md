@@ -82,6 +82,8 @@ You use appropriate communication considering your role in a team, your audience
 
 #### Group
 
+Standups: (Standups)[https://github.com/Adv-Software-DeKeet/.github/blob/main/ATM%20(Group%20project)/Standups.md]
+
 #### Score
 | Level |
 |---|
@@ -94,6 +96,9 @@ Besides functionality, you develop the architecture of enterprise software based
 #### Evidence:
 
 #### Individual
+I created C2 Model see here: [Technical design](https://github.com/Adv-Software-DeKeet/.github/blob/main/DeKeet%20(IP)/Technical%20Design.md#c2-model)
+
+Kubernetes: [Kubernetes](https://github.com/Adv-Software-DeKeet/.github/blob/main/DeKeet%20(IP)/Kubernetes.md)
 
 #### Group
 
