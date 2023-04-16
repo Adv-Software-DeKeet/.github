@@ -23,7 +23,7 @@ Messaging between services AuthService and UserService works in local kubernetes
 
 I am able to autoscale pods based on CPU usage. I am requesting an x amount of cores per pod. when pod is at 95% core usage it will scale up to max 10 pods. When usage cools down it scale down to 1 pod. This process can be seen below, as I loadtested my user API:
 
-|  Name |  ---------   | CPU usage | min | max | replicas|
+|  Name |  ------   | CPU usage | min | max | replicas|
 |--|--|--|--|--|--|
 
 ![AutoScale](https://github.com/Adv-Software-DeKeet/.github/blob/main/DeKeet%20(IP)/images/Autoscale.png)
