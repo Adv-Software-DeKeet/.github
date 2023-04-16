@@ -6,11 +6,11 @@ Kubernetes allows you to easily manage and scale containerized applications acro
 Deployed AuthService and UserService in local kubernetes cluster. ![kubernetes](https://github.com/Adv-Software-DeKeet/.github/blob/main/DeKeet%20(IP)/images/KubernetesPods.png)
 
 ## API Gateway
-To access API, Ingress is used and address is: api.localhost:9080
+To access API, Ingress is used and address is: localhost:9080/api/{svc}
 
-UserService: api.localhost:9080/user
+UserService: localhost:9080/api/user
 
-AuthService: api.localhost:9080/auth
+AuthService: not reachable for externally (yet?)
 
 ## RabbitMQ
 Rabbit Cluster in kubernetes:
@@ -22,3 +22,9 @@ Messaging between services AuthService and UserService works in local kubernetes
 ## Autoscaling
 
 ![AutoScale](https://github.com/Adv-Software-DeKeet/.github/blob/main/DeKeet%20(IP)/images/Autoscale.png)
+
+## Volumes
+
+### Mongo
+
+I created a Persistant volume for my database, so whenever my mongo pods get killed for some reason, the data will not be ereased. Also for scaling.
