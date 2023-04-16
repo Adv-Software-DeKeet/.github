@@ -27,4 +27,6 @@ Messaging between services AuthService and UserService works in local kubernetes
 
 ### Mongo
 
-I created a Persistant volume for my database, so whenever my mongo pods get killed for some reason, the data will not be ereased. Also for scaling.
+I created a Persistant volume for my database, so whenever my mongo pods get killed for some reason, the data will not be ereased. Also for scaling. 
+
+![MongoPvc](https://github.com/Adv-Software-DeKeet/.github/blob/main/DeKeet%20(IP)/images/MongoPvc.png)
