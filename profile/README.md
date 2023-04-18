@@ -167,7 +167,7 @@ You are aware of specific data requirements for enterprise systems. You apply be
 
 [MongoPvc](https://github.com/Adv-Software-DeKeet/.github/blob/main/DeKeet%20(IP)/Kubernetes.md#volumes)
 
-[User registration](https://github.com/Adv-Software-DeKeet/.github/blob/main/DeKeet%20(IP)/RabbitMQ.md#messaging)
+[Managing Users](https://github.com/Adv-Software-DeKeet/.github/blob/main/DeKeet%20(IP)/RabbitMQ.md#messaging)
 
 #### Group
 
