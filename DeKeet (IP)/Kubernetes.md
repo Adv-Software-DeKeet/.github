@@ -6,11 +6,11 @@ Kubernetes allows you to easily manage and scale containerized applications acro
 Deployed AuthService and UserService in local kubernetes cluster. ![kubernetes](https://github.com/Adv-Software-DeKeet/.github/blob/main/DeKeet%20(IP)/images/KubernetesPods.png)
 
 ## API Gateway
-To access API, Ingress is used and address is: api.localhost:9080
+To access API, Ingress is used and address is: localhost:9080/api/{svc}
 
-UserService: api.localhost:9080/user
+UserService: localhost:9080/api/user
 
-AuthService: api.localhost:9080/auth
+AuthService: not reachable for externally (yet?)
 
 ## RabbitMQ
 Rabbit Cluster in kubernetes:
@@ -21,4 +21,20 @@ Messaging between services AuthService and UserService works in local kubernetes
 
 ## Autoscaling
 
+I am able to autoscale pods based on CPU usage. I am requesting an x amount of cores per pod. when pod is at 95% core usage it will scale up to max 10 pods. When usage cools down it scale down to 1 pod. This process can be seen below, as I loadtested my user API:
+
+|  Name |  ------   | CPU usage | min | max | replicas|
+|--|--|--|--|--|--|
+
 ![AutoScale](https://github.com/Adv-Software-DeKeet/.github/blob/main/DeKeet%20(IP)/images/Autoscale.png)
+
+
+it starts with one replica and you can see the usage exceding the 95%, so it scales up that point. It peaks at 5 replicas then it was able to handle all the request with a usage below 95%. After I stopped the loadtesting, the usage drops and it scales down to 1 replica again.
+
+## Volumes
+
+### Mongo
+
+I created a Persistant volume for my database, so whenever my mongo pods get killed for some reason, the data will not be ereased. Also for scaling. 
+
+![MongoPvc](https://github.com/Adv-Software-DeKeet/.github/blob/main/DeKeet%20(IP)/images/MongoPvc.png)
