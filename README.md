@@ -165,6 +165,14 @@ You are aware of specific data requirements for enterprise systems. You apply be
 
 #### Evidence:
 
+#### Individual
+
+[User registration](https://github.com/Adv-Software-DeKeet/.github/blob/main/DeKeet%20(IP)/RabbitMQ.md#messaging)
+
+#### Group
+
+[Strategy Upload](https://github.com/Adv-Software-DeKeet/.github/blob/main/ATM%20(Group%20project)/RabbitMQ.md#strategy-upload)
+
 #### Score
 | Level |
 |---|
