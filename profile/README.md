@@ -163,6 +163,11 @@ You are aware of specific data requirements for enterprise systems. You apply be
 
 #### Evidence:
 
+#### Individual
+
+#### Group
+
+
 #### Score
 | Level |
 |---|
