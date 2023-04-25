@@ -40,7 +40,7 @@ You deliver professional products according to planning, which is the result of 
 
 #### Individual
 
-For my individual research I researched a topic that is being used in our group project. Which platform is best for testing forex strategies? : [Research](https://github.com/Adv-Software-DeKeet/.github/blob/main/Research/Platform%20Research.pdf)
+For my individual research I researched a topic that is being used in our group project. Which platform is best for testing forex strategies? : [Research](https://github.com/Adv-Software-DeKeet/.github/blob/main/ATM%20(Group%20project)/Research/Which%20platform%20is%20best%20for%20testing%20forex%20strategies%3F.pdf)
 
 #### Group
 
