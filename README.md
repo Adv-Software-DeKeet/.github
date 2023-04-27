@@ -117,6 +117,8 @@ You set up environments and tools which support your chosen software development
 
 To automate the process on all my repositories, when pushed to master a docker container is created and pushed to dockerhub for production. More info see: [Docker](https://github.com/Adv-Software-DeKeet/.github/blob/main/DeKeet%20(IP)/Docker.md)
 
+Google Cloud: [GCloud](https://github.com/Adv-Software-DeKeet/.github/blob/main/DeKeet%20(IP)/GCloud.md)
+
 #### Group
 
 #### Score
@@ -131,7 +133,7 @@ You can explain what a cloud platform provider is and can deploy (parts of) your
 
 #### Individual
 
-As an external cloud service I use Firebase for authentication. Firebase Auth is a popular authentication service provided by Google's Firebase platform. Firebase is reliable and easy to integrate. for more information and implementation: [Firebase](https://github.com/Adv-Software-DeKeet/.github/blob/main/DeKeet%20(IP)/Firebase.md).
+Google Cloud: [GCloud](https://github.com/Adv-Software-DeKeet/.github/blob/main/DeKeet%20(IP)/GCloud.md)
 
 #### Group
 
