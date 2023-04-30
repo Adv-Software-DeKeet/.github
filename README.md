@@ -150,6 +150,8 @@ You investigate how to minimize security risks for your application, and you inc
 
 #### Individual
 
+Security by design file: [Security by Design](https://github.com/Adv-Software-DeKeet/.github/blob/main/DeKeet%20(IP)/Security%26Design.md)
+
 I use Firebase for authentication. Firebase Auth is a popular authentication service provided by Google's Firebase platform. Firebase is reliable and easy to integrate. for more information and implementation:  [Firebase](https://github.com/Adv-Software-DeKeet/.github/blob/main/DeKeet%20(IP)/Firebase.md#authentication-and-authorization).
 
 #### Group

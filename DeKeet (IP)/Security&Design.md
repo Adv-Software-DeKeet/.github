@@ -18,3 +18,8 @@ With HTTPS, data is encrypted in transit in both directions: going to and coming
 
 I have setup [GCloud kubernetes](https://github.com/Adv-Software-DeKeet/.github/blob/main/DeKeet%20(IP)/GCloud.md). Now by default it uses HTTP. I created SSL certificates with Google-managed certificate. Now it uses HTTPS:
 
+![ssl](https://github.com/Adv-Software-DeKeet/.github/blob/main/DeKeet%20(IP)/images/Ssl.png)
+
+Config gcloud: 
+
+![gcloudssl](https://github.com/Adv-Software-DeKeet/.github/blob/main/DeKeet%20(IP)/images/sslGcloud.png)
