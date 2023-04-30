@@ -4,7 +4,7 @@
 
 cluster set up in google cloud.
 
-APIGateway accessible: http://34.141.148.213:8095/
+APIGateway accessible: http://dekeet.jovisimons.nl/
 
 ![cluster](https://github.com/Adv-Software-DeKeet/.github/blob/main/DeKeet%20(IP)/images/gCloudCluster.png)
 
