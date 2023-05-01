@@ -22,6 +22,6 @@ the build logs with proof that it deploys on kubernetes:
 
 ## Deploy
 
-Pipeline is first deploys on staging cluster and when can be tested. Then it can be promoted to production.
+We deploy the newly created image with Google Cloud Deploy. It first deploys on staging cluster and can be tested. Then it can be promoted to production.
 
 ![GCPPipeline](https://github.com/Adv-Software-DeKeet/.github/blob/main/DeKeet%20(IP)/images/GCPDeployStag%26Prod.png)
