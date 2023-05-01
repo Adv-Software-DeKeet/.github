@@ -2,9 +2,11 @@
 
 ## Kubernetes
 
-cluster set up in google cloud.
+Cluster is set up in Google Cloud.
 
-APIGateway accessible: http://dekeet.jovisimons.nl/
+We have a staging cluster and production cluster.
+
+production cluster is availabe at: https://dekeet.jovisimons.nl/
 
 ![cluster](https://github.com/Adv-Software-DeKeet/.github/blob/main/DeKeet%20(IP)/images/gCloudCluster.png)
 
@@ -17,3 +19,9 @@ On master push Google build pipeline runs and notifies cluster with new deployme
 the build logs with proof that it deploys on kubernetes:
 
 ![Buildlogs](https://github.com/Adv-Software-DeKeet/.github/blob/main/DeKeet%20(IP)/images/gcloudBuildLogs.png)
+
+## Deploy
+
+Pipeline is first deploys on staging cluster and when can be tested. Then it can be promoted to production.
+
+![GCPPipeline](https://github.com/Adv-Software-DeKeet/.github/blob/main/DeKeet%20(IP)/images/GCPDeployStag%26Prod.png)
