@@ -42,7 +42,10 @@ You deliver professional products according to planning, which is the result of 
 
 For my individual research I researched a topic that is being used in our group project. Which platform is best for testing forex strategies? : [Research](https://github.com/Adv-Software-DeKeet/.github/blob/main/ATM%20(Group%20project)/Research/Which%20platform%20is%20best%20for%20testing%20forex%20strategies%3F.pdf)
 
+
 #### Group
+
+For Group Research we researched on What is the optimal way of handling MT-accounts when scaling?: [Research](https://github.com/Adv-Software-DeKeet/.github/blob/main/ATM%20(Group%20project)/Research/What%20is%20the%20optimal%20way%20of%20handling%20MT-accounts%20when%20scaling.pdf)
 
 #### Score
 | Level |
