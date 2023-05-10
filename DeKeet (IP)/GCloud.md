@@ -12,10 +12,16 @@ production cluster is availabe at: https://dekeet.jovisimons.nl/
 
 ## Build
 
+### Build and test
+
 On master push Google build pipeline runs and run tests, if test fail the build also fails, then it creates a jar file. When jar file is created it creates new image and pushes it to the registry. Finally, the doplyment gets triggered:
 
 ![BuildSucceed](https://github.com/Adv-Software-DeKeet/.github/blob/main/DeKeet%20(IP)/images/gcloudBuild.png)
 
+
+### Sonarcloud
+
+### Create and push image to registry
 
 ## Deploy
 
