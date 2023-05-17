@@ -31,6 +31,10 @@ I am able to autoscale pods based on CPU usage. I am requesting an x amount of c
 
 it starts with one replica and you can see the usage exceding the 95%, so it scales up that point. It peaks at 5 replicas then it was able to handle all the request with a usage below 95%. After I stopped the loadtesting, the usage drops and it scales down to 1 replica again.
 
+## Monitoring
+
+
+
 ## Volumes
 
 ### Mongo
