@@ -33,7 +33,9 @@ it starts with one replica and you can see the usage exceding the 95%, so it sca
 
 ## Monitoring
 
+For monitoring I use Prometheus and Grafana. As seen in the picture below.
 
+![Montiroing](https://github.com/Adv-Software-DeKeet/.github/blob/main/DeKeet%20(IP)/images/Monitoring.png)
 
 ## Volumes
 
