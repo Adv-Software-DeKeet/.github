@@ -22,15 +22,12 @@ You develop and deploy enterprise software, both individually and as a team, tha
 
 #### Evidence:
 
-#### Individual
-
-#### Group
-
+[TechStack](https://github.com/Adv-Software-DeKeet/.github/blob/main/ATM%20(Group%20project)/General/TechStack.pdf)
 
 #### Score
 | Level |
 |---|
-| Orienting |
+| Proficient |
 
 
 ### Learning Outcome 2 - Investigative Problem-Solving
@@ -50,7 +47,7 @@ For Group Research we researched on What is the optimal way of handling MT-accou
 #### Score
 | Level |
 |---|
-| Orienting |
+| Proficient |
 
 ### Learning Outcome 3 - Personal Leadership
 You acquire skills required for your future career. You are aware of multiple career paths and can reflect which ones fit best, considering your (potential) skills and ambitions. You are aware of developments in software engineering and can signal trends. 
@@ -74,7 +71,7 @@ In Future Career I orient and explain about the possibilites I have in the ICT w
 #### Score
 | Level |
 |---|
-| Orienting |
+| Proficient |
 
 ### Learning Outcome 4 - Targeted Interaction
 You use appropriate communication considering your role in a team, your audience and the medium to convey your message and results of your software development process.
@@ -90,7 +87,7 @@ Standups: (Standups)[https://github.com/Adv-Software-DeKeet/.github/blob/main/AT
 #### Score
 | Level |
 |---|
-| Beginning |
+| Proficient |
 
 
 ### Learning Outcome 5 - Scalable Architectures
@@ -108,7 +105,7 @@ Kubernetes: [Kubernetes](https://github.com/Adv-Software-DeKeet/.github/blob/mai
 #### Score
 | Level |
 |---|
-| Orienting |
+| Proficient |
 
 
 ### Learning Outcome 6 - Development and Operations (DevOps)
@@ -127,7 +124,7 @@ Google Cloud: [GCloud](https://github.com/Adv-Software-DeKeet/.github/blob/main/
 #### Score
 | Level |
 |---|
-| Orienting |
+| Proficient |
 
 ### Learning Outcome 7 - Cloud Services
 You can explain what a cloud platform provider is and can deploy (parts of) your application to a cloud platform. You integrate cloud services (for example: Serverless computing, cloud storage, container management) into your enterprise application, and can explain the added value of these cloud services for your application.
@@ -143,7 +140,7 @@ Google Cloud: [GCloud](https://github.com/Adv-Software-DeKeet/.github/blob/main/
 #### Score
 | Level |
 |---|
-| Orienting |
+| Proficient |
 
 
 ### Learning Outcome 8 - Security by Design
@@ -162,7 +159,7 @@ I use Firebase for authentication. Firebase Auth is a popular authentication ser
 #### Score
 | Level |
 |---|
-| Orienting |
+| Proficient |
 
 
 ### Learning Outcome 9 – Distributed Data
@@ -183,4 +180,4 @@ You are aware of specific data requirements for enterprise systems. You apply be
 #### Score
 | Level |
 |---|
-| Orienting |
+| Proficient |
