@@ -63,7 +63,7 @@ Request goes to UserService via HTTP, UserService updates user, UserService send
 
 ### On user delete:
 
-Request goes to UserService via HTTP, UserService deletes user, UserService sends Rabbit message to AuthService, AuthService deletes from Firebase.
+Request goes to UserService via HTTP, UserService deletes user, UserService sends Rabbit message to AuthService, AuthService deletes from Firebase. It deletes all personal information and eventually you will see "Deleted user" to preserve statistics.
 
 
 ## Cluster
