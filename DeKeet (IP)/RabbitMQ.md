@@ -57,6 +57,8 @@ Result / logs:
 
 ### On user update:
 
+![updatedelflow](https://github.com/Adv-Software-DeKeet/.github/blob/main/DeKeet%20(IP)/images/dekeet-updel.png)
+
 Request goes to UserService via HTTP, UserService updates user, UserService sends Rabbit message to AuthService, AuthService saves new changes to Firebase.
 
 ### On user delete:
