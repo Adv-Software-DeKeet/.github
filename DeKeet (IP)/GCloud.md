@@ -13,7 +13,7 @@ production cluster is availabe at: https://dekeet.jovisimons.nl/
 
 Here are all the pods running:
 
-![PodsGcloud]()
+![PodsGcloud](https://github.com/Adv-Software-DeKeet/.github/blob/main/DeKeet%20(IP)/images/podsGKE.png)
 
 ## Build
 
@@ -33,6 +33,14 @@ Then I use sonarcloud which scans all my files.
 SonarCloud result:
 
 ![SonarCloud](https://github.com/Adv-Software-DeKeet/.github/blob/main/DeKeet%20(IP)/images/SonarCloud.png)
+
+### K6 Load testing
+
+It also load tests in my pipeline.
+
+It gets saved in the cloud at K6 and can see the results:
+
+![K6Pipeline](https://github.com/Adv-Software-DeKeet/.github/blob/main/DeKeet%20(IP)/images/K6Pipeline.png)
 
 ### Create and push image to registry
 
