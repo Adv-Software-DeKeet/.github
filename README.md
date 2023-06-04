@@ -26,6 +26,7 @@ You develop and deploy enterprise software, both individually and as a team, tha
 
 #### Group
 
+A clarification on technologies and other used can be found here: [Clarification](https://github.com/Adv-Software-DeKeet/.github/blob/main/ATM%20(Group%20project)/General/TechStack.pdf)
 
 #### Score
 | Level |
@@ -85,7 +86,7 @@ You use appropriate communication considering your role in a team, your audience
 
 #### Group
 
-Standups: (Standups)[https://github.com/Adv-Software-DeKeet/.github/blob/main/ATM%20(Group%20project)/Standups.md]
+Standups: [Standups](https://github.com/Adv-Software-DeKeet/.github/blob/main/ATM%20(Group%20project)/Standups.md)
 
 #### Score
 | Level |
