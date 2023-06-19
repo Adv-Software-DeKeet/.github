@@ -47,7 +47,7 @@ I created a Persistant volume for my database, so whenever my mongo pods get kil
 
 ## ResourceMapping
 
-![RM]()
+![RM](https://github.com/Adv-Software-DeKeet/.github/blob/main/DeKeet%20(IP)/images/RM.png)
 
 Given the information, my primary focus is to  scale the services in my Keet applications. By efficiently scaling these services, I can ensure faster response times and handle increased traffic effectively. To achieve this, I have devised the following steps:
 
