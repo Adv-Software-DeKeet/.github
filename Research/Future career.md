@@ -31,17 +31,17 @@ Personal and Professional Growth: The experience of living abroad is transformat
 
 - [Minor entrepreneurship](https://fontys.nl/Studeren/Minoren/Ondernemerschap.htm)
 
-A good reason for me to choose for this minor is because im starting a software company with 2 friends of mine called d3vs. But there are also some other good reasons to choose this minor. They will also be listed down here.
+There are multiple compelling reasons for me to choose this minor, particularly as I embark on launching a software company called d3vs with two of my friends. However, there are also other significant advantages associated with this minor, which I will outline below:
 
-1. Develop entrepreneurial skills: A minor in entrepreneurship provides an opportunity to develop skills such as creativity, innovation, problem-solving, critical thinking, and risk-taking. These skills are essential for starting and managing a successful business.
+Entrepreneurial Skill Development: Pursuing a minor in entrepreneurship offers an excellent opportunity to cultivate essential skills such as creativity, innovation, problem-solving, critical thinking, and risk-taking. These skills are pivotal in establishing and effectively managing a thriving business.
 
-2. Learning from successful entrepreneurs: Many entrepreneurship programs offer opportunities to learn from successful entrepreneurs and business leaders. These individuals can provide valuable insights and mentorship that can help me succeed in ny own business. This can also help me starting up the business with my friends.
+Learning from Successful Entrepreneurs: Many entrepreneurship programs provide valuable platforms for learning from accomplished entrepreneurs and business leaders. Their insights and mentorship can prove instrumental in guiding me towards success in my own business venture, including the startup I am launching with my friends.
 
-3. Networking: Pursuing a minor in entrepreneurship provides an opportunity to network with like-minded individuals who share your passion for business and entrepreneurship. These connections can be valuable in the future when you're looking for job opportunities, partnerships, or investors for your business.
+Networking Opportunities: Engaging in a minor focused on entrepreneurship enables me to connect with like-minded individuals who share a passion for business and entrepreneurship. Building a network of such contacts can be advantageous in the future when seeking job opportunities, potential partnerships, or securing investors for our business.
 
-4. Career opportunities: Even if we don't succeed in the business that i'm starting my with friends or it doesn't work out, a minor in entrepreneurship can provide valuable skills and knowledge that can be applied to a wide range of careers in fields such as marketing, sales, and management.
+Diverse Career Prospects: Even if our startup does not achieve the desired outcome, or if circumstances lead to a different career path, a minor in entrepreneurship equips me with valuable skills and knowledge applicable across various fields, including marketing, sales, and management.
 
-Overall, pursuing a minor in entrepreneurship can be a smart choice for anyone who is interested in business, innovation, and creating value. Whether you plan to start your own business or work in a more traditional role, the skills and mindset you develop in an entrepreneurship program can be valuable assets throughout your career.
+Overall, pursuing a minor in entrepreneurship is a strategic decision for individuals interested in business, innovation, and creating value. Whether the aspiration is to launch a personal venture or pursue a more conventional professional role, the skills and mindset fostered through an entrepreneurship program will serve as valuable assets throughout one's career journey.
 
 > Start minor: September/Februari
 
