@@ -59,7 +59,7 @@ You acquire skills required for your future career. You are aware of multiple ca
 ##### Graduation Preparation 
 I have made a Graduation Preparation document where I explain what my previous internship was about and what I am looking for in the next one:
 
-[Graduation Preparation]()
+[Graduation Preparation](https://github.com/Adv-Software-DeKeet/.github/blob/main/Research/annotated-Graduation%2520Preparation.pdf)
 
 
 ##### Future Career
