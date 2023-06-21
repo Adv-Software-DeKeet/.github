@@ -6,15 +6,15 @@ For the minors i'm interested in a minor abroad or the minor for entrepreneurshi
 
 - [Minor abroad](https://fontys.nl/Studeren/Minoren/Buitenlandminor.htm)
 
-There are a couple of reasons that will really benefit me to choose for this minor. I will be listing them down here so it has a nice structure to read.
+There are several compelling reasons why choosing this minor would greatly benefit me. To present them in a structured manner, I have listed them below:
 
-1. Exposure to different cultures: Studying abroad allows me to immerse myself in a different culture and gain some new perspectives of the world depending on where i will be ofcourse. It gives me a good opportunity to learn about traditions and ways of life that are very different than my own.
+Cultural Exposure: Opting to study abroad provides me with a unique opportunity to fully immerse myself in a different culture and gain fresh perspectives on the world. Depending on the location I choose, I can learn about diverse traditions and ways of life that differ significantly from my own.
 
-2. Language: Studying abroad will improve my language skills a lot. By living and studying in a foreign country i will be surrounded by people that speak the certain language everyday. This gives me a great opportunity practice these skills in a real-world situation.
+Language Development: Pursuing studies in a foreign country will significantly enhance my language skills. Living and studying amidst native speakers of the particular language will allow me to practice and improve my language abilities in authentic, real-world situations.
 
-3. Network: In a foreign country i will be meeting new people and this really helps with building my proffesional network. These connections are valuable later on in my career when i'm looking for a job or business partnerships when i have my own company for example.
+Networking Opportunities: Being in a foreign country exposes me to new individuals and fosters the growth of my professional network. These connections can prove invaluable when I am seeking employment opportunities or exploring potential business partnerships, especially as I progress in my career or establish my own company.
 
-4. Personal growth: being abroad is a lifechanging experience that helps me personally and professionaly. It challenges me to get out of my comfort zone and learn from new situations and develop new skills to help me in the future. 
+Personal and Professional Growth: The experience of living abroad is transformative, benefiting both my personal and professional development. It pushes me outside of my comfort zone, enabling me to learn from novel situations and acquire new skills that will serve me well in the future.
 
 > Start minor: September/Februari
 
